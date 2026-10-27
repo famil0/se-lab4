@@ -1,0 +1,3 @@
+GT4500,1,1,1,0 # should succeed
+TORPEDO,SINGLE # first shot, from primary should fail
+TORPEDO,SINGLE # second shot, from primary should succeed
